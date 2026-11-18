@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Node / JS
+node_modules/
+.next/
+.expo/
+dist/
+build/
+*.tsbuildinfo
+npm-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Generated data (scraped pages are re-created by the crawler; chunks live in Supabase)
+services/ai/scripts/scrape/out/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Codex CLI installed by the Replit build (scripts/replit-start.sh)
+.codex-cli/

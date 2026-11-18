@@ -1,0 +1,24 @@
+{
+  "item": {
+    "id": "c0000000-0000-0000-0000-000000000002",
+    "kind": "found",
+    "tier": "valuable",
+    "title": "AirPods Pro case",
+    "description": "White case, no name",
+    "photo_url": null,
+    "building_id": "b0000000-0000-0000-0000-000000000009",
+    "location_text": "Ronald Tutor Campus Center food court",
+    "dropoff_point_id": "dd000000-0000-0000-0000-000000000001",
+    "status": "open",
+    "posted_by": "00000000-0000-0000-0000-000000000002",
+    "expires_at": null,
+    "created_at": "2026-11-14T21:00:00Z"
+  },
+  "tier": "valuable",
+  "dropoff": {
+    "name": "DPS Lost & Found, 3667 McClintock Ave (University Park Campus)",
+    "url": "https://dps.usc.edu/services/lost-and-found/",
+    "map": "https://www.google.com/maps/search/?api=1&query=3667+McClintock+Ave%2C+Los+Angeles%2C+CA+90089",
+    "hours": null
+  }
+}
